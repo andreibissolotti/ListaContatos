@@ -1,0 +1,9 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 2rem 0 2rem;
+}
+
+.actions>button{
+    margin-left: 1.5rem;
+}
